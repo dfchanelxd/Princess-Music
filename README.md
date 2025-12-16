@@ -6,7 +6,7 @@
 
 ## ✨ Fitur Utama
 
-*   **Streaming & Offline:** Cari dan putar lagu dari YouTube, atau simpan untuk didengarkan secara offline.
+*   **Streaming NO ADS & Offline:** Cari dan putar lagu dari YouTube, atau simpan untuk didengarkan secara offline.
 *   **Import Spotify:** Import playlist favoritmu langsung dari link Spotify secara otomatis.
 *   **Dynamic UI:** Tampilan antarmuka yang cantik dengan background gradient yang mengikuti warna cover album.
 *   **Auto Update:** Mendukung update aplikasi otomatis tanpa perlu membuka browser (In-App Update).
