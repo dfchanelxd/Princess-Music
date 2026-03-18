@@ -2,7 +2,7 @@
 
 **Princess Music** adalah aplikasi pemutar musik Android modern yang dibangun menggunakan **Kotlin** dan **Jetpack Compose**. Aplikasi ini dirancang untuk memberikan pengalaman mendengarkan musik yang mulus dengan kemampuan streaming, download, dan manajemen playlist.
 
-![App Screenshot](LINK_GAMBAR_SCREENSHOT_DISINI_JIKA_ADA)
+![App Screenshot](IMAGE)
 
 ## ✨ Fitur Utama
 
@@ -40,11 +40,11 @@ Kamu bisa mendownload versi terbaru dari aplikasi ini di menu **Releases** di se
 |:---:|:---:|:---:|
 | <img src="URL_GAMBAR_1" width="200" /> | <img src="URL_GAMBAR_2" width="200" /> | <img src="URL_GAMBAR_3" width="200" /> |
 
-*(Ganti URL_GAMBAR dengan link screenshot aplikasimu nanti)*
+*(GAMBAR)*
 
 ## 🤝 Kontribusi
 
-Aplikasi ini dikembangkan oleh **Dio**. Saran dan masukan sangat diterima! Jangan ragu untuk membuka `Issues` jika menemukan bug.
+Aplikasi ini dikembangkan oleh Solo Developer **Dio**. Saran dan masukan sangat diterima! Jangan ragu untuk membuka `Issues` jika menemukan bug.
 
 ## ⚠️ Disclaimer
 
