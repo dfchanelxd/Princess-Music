@@ -40,7 +40,7 @@ Kamu bisa mendownload versi terbaru dari aplikasi ini di menu **Releases** di se
 |:---:|:---:|:---:|
 | <img src="URL_GAMBAR_1" width="200" /> | <img src="URL_GAMBAR_2" width="200" /> | <img src="URL_GAMBAR_3" width="200" /> |
 
-*(GAMBAR)*
+*(IMAGE_SOON!)*
 
 ## 🤝 Kontribusi
 
