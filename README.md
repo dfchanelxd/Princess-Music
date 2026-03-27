@@ -1,54 +1,70 @@
 # 🎵 Princess Music
 
-**Princess Music** adalah aplikasi pemutar musik Android modern yang dibangun menggunakan **Kotlin** dan **Jetpack Compose**. Aplikasi ini dirancang untuk memberikan pengalaman mendengarkan musik yang mulus dengan kemampuan streaming, download, dan manajemen playlist.
+**A Free Android Music Player** yang super modern, dibangun dengan **Kotlin + Jetpack Compose**. Streaming YouTube Music tanpa iklan, offline playback, lirik real-time, import playlist Spotify, UI dinamis yang cantik, dan in-app update otomatis.
 
-![App Screenshot](IMAGE SOON!)
+![Princess Music Banner](https://via.placeholder.com/1200x400/1a0033/ffffff?text=Princess+Music+%F0%9F%8E%B5)  
+
+<p align="center">
+  <a href="https://github.com/dfchanelxd/Princess-Music/releases/latest">
+    <img src="https://img.shields.io/github/v/release/dfchanelxd/Princess-Music?color=9C27B0&label=Download%20APK&style=for-the-badge&logo=android" alt="Latest Release">
+  </a>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=android&logoColor=white&style=for-the-badge" alt="Jetpack Compose">
+  <img src="https://img.shields.io/badge/License-AGPLv3-purple?style=for-the-badge" alt="License">
+  <a href="https://github.com/dfchanelxd/Princess-Music/stargazers">
+    <img src="https://img.shields.io/github/stars/dfchanelxd/Princess-Music?style=for-the-badge&logo=star" alt="Stars">
+  </a>
+</p>
 
 ## ✨ Fitur Utama
 
-*   **Streaming [NO ADS] & Offline:** Cari dan putar lagu dari YouTube, atau simpan untuk didengarkan secara offline.
-*   **Import Spotify:** Import playlist favoritmu langsung dari link Spotify secara otomatis.
-*   **Dynamic UI:** Tampilan antarmuka yang cantik dengan background gradient yang mengikuti warna cover album.
-*   **Auto Update:** Mendukung update aplikasi otomatis tanpa perlu membuka browser (In-App Update).
-*   **Lirik Lagu:** Menampilkan lirik lagu secara real-time.
-*   **Dark Mode:** Tampilan gelap yang nyaman di mata ala Spotify.
+- **Music Streaming**: Putar lagu tanpa iklan
+- **Offline Playback & Download**: Simpan lagu ke HP
+- **Lirik Lagu Real-time**: Sinkron otomatis dengan musik
+- **Import Playlist Spotify**: Tinggal paste link, langsung masuk
+- **Dynamic Theme**: Gradient background mengikuti warna album cover
+- **In-App Update**: Update aplikasi langsung dari dalam app
+- **Beautiful Dark Mode**: Desain ala Spotify yang nyaman di mata
 
-## 🛠️ Teknologi yang Digunakan
+## 🛠️ Tech Stack
 
-Project ini dibuat untuk demonstrasi kemampuan pengembangan Android modern:
-
-*   **Bahasa:** [Kotlin](https://kotlinlang.org/)
-*   **UI Toolkit:** [Jetpack Compose](https://developer.android.com/jetpack/compose) (Material3)
-*   **Architecture:** MVVM (Model-View-ViewModel)
-*   **Image Loading:** [Coil](https://coil-kt.github.io/coil/)
-*   **Networking:** [OkHttp](https://square.github.io/okhttp/) & [Retrofit](https://square.github.io/retrofit/)
-*   **Audio Engine:** [Media3 (ExoPlayer)](https://developer.android.com/media/media3)
-*   **Concurrency:** Coroutines & Flow
+| Teknologi              | Kegunaan                          |
+|------------------------|-----------------------------------|
+| **Kotlin**             | Bahasa utama                      |
+| **Jetpack Compose**    | UI modern (Material 3)            |
+| **MVVM + Coroutines + Flow** | Architecture & Async          |
+| **Media3 (ExoPlayer)** | Audio engine powerful             |
+| **Coil**               | Image loading & caching           |
+| **Retrofit + OkHttp**  | Networking & API YouTube          |
 
 ## 📥 Cara Install
 
-Kamu bisa mendownload versi terbaru dari aplikasi ini di menu **Releases** di sebelah kanan halaman ini.
-
-1. Download file `.apk` terbaru.
-2. Install di HP Android kamu.
-3. Berikan izin yang diperlukan.
-4. Nikmati musiknya!
+1. Buka tab **[Releases](https://github.com/dfchanelxd/Princess-Music/releases)** di sebelah kanan
+2. Download file `.apk` terbaru (Princess.Music.vx.x.apk)
+3. Install di HP Android kamu (Android 8.0+)
+4. Izinkan instalasi dari sumber tidak dikenal
+5. Buka aplikasi & nikmati musiknya! 🎶
 
 ## 📸 Screenshots
 
-| Home & Search | Playlist & Import | Player View |
-|:---:|:---:|:---:|
-| <img src="URL_GAMBAR_1" width="200" /> | <img src="URL_GAMBAR_2" width="200" /> | <img src="URL_GAMBAR_3" width="200" /> |
-
-*(IMAGE_SOON!)*
+| Home & Search                  | Playlist & Spotify Import             | Player Screen                     |
+|--------------------------------|---------------------------------------|-----------------------------------|
+| ![Home](IMAGE_SOON!)           | ![Playlist](IMAGE_SOON!)              | ![Player](IMAGE_SOON!)            |
 
 ## 🤝 Kontribusi
 
-Aplikasi ini dikembangkan oleh Solo Developer **Dio**. Saran dan masukan sangat diterima! Jangan ragu untuk membuka `Issues` jika menemukan bug.
+Project ini dibuat oleh **solo developer Dio** (dfchanelxd).  
+Mau ikut berkontribusi? Boleh banget!
+
+- Buka **Issue** kalau nemu bug atau punya ide fitur
+- Buat **Pull Request** kalau mau nambah fitur
+- Share aplikasi ini ke teman-teman kamu ❤️
 
 ## ⚠️ Disclaimer
 
-Aplikasi ini dibuat untuk tujuan edukasi dan pembelajaran pengembangan Android. Mohon gunakan fitur download dengan bijak dan menghormati hak cipta pemilik konten.
+Aplikasi ini **100% gratis** dan dibuat untuk tujuan edukasi serta pembelajaran pengembangan Android modern.  
+Mohon gunakan fitur download dengan bijak dan tetap menghormati hak cipta pemilik lagu.
 
 ---
-Built with ❤️ by Dio
+
+**Built with ❤️ by [DioFikriyanto](https://github.com/dfchanelxd)**  
