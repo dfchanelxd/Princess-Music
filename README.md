@@ -1,8 +1,6 @@
 # 🎵 Princess Music
 
-**A Free Android Music Player** yang super modern, dibangun dengan **Kotlin + Jetpack Compose**. Streaming YouTube Music tanpa iklan, offline playback, lirik real-time, import playlist Spotify, UI dinamis yang cantik, dan in-app update otomatis.
-
-![Princess Music Banner](https://via.placeholder.com/1200x400/1a0033/ffffff?text=Princess+Music+%F0%9F%8E%B5)  
+**A Free Android Music Player** yang super modern, dibangun dengan **Kotlin + Jetpack Compose**. Streaming Music tanpa iklan, offline playback, lirik real-time, import playlist Spotify, UI dinamis yang cantik, dan in-app update otomatis.
 
 <p align="center">
   <a href="https://github.com/dfchanelxd/Princess-Music/releases/latest">
