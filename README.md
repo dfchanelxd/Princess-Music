@@ -6,8 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/dfchanelxd/Princess-Music/releases/latest">
-    <img src="https://img.shields.io/github/v/release/dfchanelxd/Princess-Music?color=9C27B0&label=Download%20APK&style=for-the-badge&logo=android" alt="Latest Release">
-  </a>
+    <img src="https://img.shields.io/github/v/release/dfchanelxd/Princess-Music?color=9C27B0&label=Download%20APK&style=for-the-badge&logo=android" alt="Latest Release"></a>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge" alt="Kotlin">
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=android&logoColor=white&style=for-the-badge" alt="Jetpack Compose">
   <img src="https://img.shields.io/badge/License-AGPLv3-purple?style=for-the-badge" alt="License">
