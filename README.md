@@ -48,6 +48,14 @@
 |--------------------------------|---------------------------------------|-----------------------------------|
 | ![Home](IMAGE_SOON!)           | ![Playlist](IMAGE_SOON!)              | ![Player](IMAGE_SOON!)            |
 
+## 🔒 Keamanan Aplikasi
+
+Princess Music telah diverifikasi **100% bebas virus dan malware**.
+
+Setiap file APK yang dirilis selalu kami periksa terlebih dahulu menggunakan **VirusTotal**, yang memindai dengan lebih dari 70 mesin antivirus sebelum diunggah ke GitHub.
+
+Aplikasi ini tidak mengandung backdoor, miner, iklan tersembunyi, atau kode berbahaya lainnya.
+
 ## 🤝 Kontribusi
 
 Project ini dibuat oleh **solo developer Dio** (dfchanelxd).  
