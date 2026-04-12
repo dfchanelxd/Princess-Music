@@ -19,9 +19,7 @@
 - **Offline Playback & Download**: Simpan lagu ke HP
 - **Lirik Lagu Real-time**: Sinkron otomatis dengan musik
 - **Import Playlist Spotify**: Tinggal paste link, langsung masuk
-- **Dynamic Theme**: Gradient background mengikuti warna album cover
 - **In-App Update**: Update aplikasi langsung dari dalam app
-- **Beautiful Dark Mode**: Desain ala Spotify yang nyaman di mata
 
 ## 🛠️ Tech Stack
 
