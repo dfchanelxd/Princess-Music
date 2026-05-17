@@ -60,7 +60,6 @@ Project ini dibuat oleh **solo developer Dio** (dfchanelxd).
 Mau ikut berkontribusi? Boleh banget!
 
 - Buka **Issue** kalau nemu bug atau punya ide fitur
-- Buat **Pull Request** kalau mau nambah fitur
 - Share aplikasi ini ke teman-teman kamu ❤️
 
 ## ⚠️ Disclaimer
