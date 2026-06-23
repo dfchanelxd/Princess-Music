@@ -1,3 +1,7 @@
+<div align="right">
+  <strong>🇬🇧 English</strong> • <a href="README_id.md">🇮🇩 Indonesia</a>
+</div>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Princess_Music-FF4081?style=for-the-badge&logo=android&logoColor=white" width="300" alt="Princess Music Header" />
 </p>
@@ -6,7 +10,8 @@
 
 <p align="center">
   <a href="https://github.com/dfchanelxd/Princess-Music/releases/latest">
-    <img src="https://img.shields.io/github/v/release/dfchanelxd/Princess-Music?color=9C27B0&label=Download%20APK&style=for-the-badge&logo=android" alt="Latest Release"></a>
+    <img src="https://img.shields.io/github/v/release/dfchanelxd/Princess-Music?color=9C27B0&label=Download%20APK&style=for-the-badge&logo=android" alt="Latest Release">
+  </a>
   <img src="https://img.shields.io/badge/Android-8.0+-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 8.0+">
   <img src="https://img.shields.io/badge/License-AGPLv3-purple?style=for-the-badge&logo=open-source-initiative" alt="License">
   <a href="https://github.com/dfchanelxd/Princess-Music/stargazers">
@@ -14,21 +19,21 @@
   </a>
 </p>
 
-## 📖 Tentang Aplikasi
+## 📖 About the App
 
-**Princess Music** adalah aplikasi *music streaming* Android yang dirancang khusus untuk pengalaman mendengarkan lagu secara bebas, cepat, dan tanpa gangguan. Berbeda dengan platform *streaming* berbayar, Princess Music berfokus pada performa pemutaran audio dengan antarmuka minimalis tanpa menyelipkan iklan sedikit pun.
+**Princess Music** is an Android music streaming application designed specifically for a free, fast, and uninterrupted listening experience. Unlike paid streaming platforms, Princess Music focuses on high-resolution audio playback performance with a minimalist interface and absolutely zero ads.
 
-## ✨ Fitur Utama
+## ✨ Key Features
 
-- **Ad-Free Streaming**: Streaming jutaan lagu sepuasnya tanpa intrusi iklan audio maupun pop-up visual.
-- **Offline Playback**: Unduh lagu langsung ke penyimpanan lokal perangkat untuk didengarkan saat tidak ada koneksi internet.
-- **Real-time Lyrics**: Sinkronisasi lirik dinamis yang berjalan akurat sesuai posisi durasi lagu.
-- **Spotify Playlist Import**: Migrasi otomatis! Cukup tempel (*paste*) tautan *playlist* Spotify, sistem akan otomatis mencari dan menambahkan semua trek untuk di-*streaming*.
-- **In-App Updater**: Sistem pembaruan otomatis (*OTA Update*) yang terintegrasi langsung dengan rilis terbaru di GitHub.
+- **Ad-Free Streaming**: Stream millions of songs limitlessly without any audio or visual ad intrusions.
+- **Offline Playback**: Download songs directly to your device's local storage to listen without an internet connection.
+- **Real-time Lyrics**: Dynamic lyrics synchronization that runs accurately based on the song's current duration.
+- **Spotify Playlist Import**: Instant migration! Simply paste a Spotify playlist link, and the system will automatically search and add all tracks for streaming.
+- **In-App Updater**: Automatic Over-The-Air (OTA) update system integrated directly with the latest GitHub releases.
 
 ## 🛠️ Tech Stack
 
-Infrastruktur dan perpustakaan modern yang menggerakkan Princess Music:
+The modern infrastructure and libraries powering Princess Music under the hood:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
@@ -40,13 +45,13 @@ Infrastruktur dan perpustakaan modern yang menggerakkan Princess Music:
   <img src="https://img.shields.io/badge/MVVM_Architecture-FF9800?style=flat-square" alt="MVVM">
 </p>
 
-## 📥 Cara Install
+## 📥 How to Install
 
-1. Buka halaman **[Releases](https://github.com/dfchanelxd/Princess-Music/releases)** di repositori ini.
-2. Unduh file dengan ekstensi `.apk` dari versi rilis terbaru (contoh: `Princess.Music.vx.x.apk`).
-3. Buka file APK yang telah diunduh di perangkat Android Anda (Kompatibel untuk **Android 8.0 Oreo** ke atas).
-4. Jika muncul dialog keamanan, izinkan instalasi dari sumber tidak dikenal (*Install unknown apps*).
-5. Selesai! Buka aplikasi dan mulai *streaming* musik favorit Anda. 🎶
+1. Open the **[Releases](https://github.com/dfchanelxd/Princess-Music/releases)** page in this repository.
+2. Download the `.apk` file from the latest release version (e.g., `Princess.Music.vx.x.apk`).
+3. Open the downloaded APK file on your Android device (Compatible with **Android 8.0 Oreo** and above).
+4. If a security dialog appears, allow *Install from unknown sources*.
+5. Done! Open the app and start streaming your favorite music. 🎶
 
 ## 📸 Screenshots
 
@@ -54,21 +59,21 @@ Infrastruktur dan perpustakaan modern yang menggerakkan Princess Music:
 |--------------------------------|---------------------------------------|-----------------------------------|
 | ![Home](IMAGE_SOON!)           | ![Playlist](IMAGE_SOON!)              | ![Player](IMAGE_SOON!)            |
 
-## 🔒 Protokol Keamanan
+## 🔒 Security Protocol
 
-Princess Music diverifikasi **100% bebas virus dan malware**.
+Princess Music is verified **100% virus and malware free**.
 
-Setiap rilis APK (*build artifacts*) yang kami distribusikan selalu dipindai terlebih dahulu menggunakan **VirusTotal** dengan lebih dari 70 mesin pendeteksi ancaman sebelum diunggah ke publik. 
+Every distributed APK release (*build artifacts*) is always pre-scanned using **VirusTotal** with over 70 threat detection engines before being uploaded to the public.
 
-Aplikasi ini bersifat transparan (*standalone*) dan **tidak mengandung** *backdoor*, penambang kripto (*crypto-miner*), SDK iklan tersembunyi, maupun pelacak telemetri (*trackers*).
+This application is standalone and **does not contain** any backdoors, crypto-miners, hidden ad SDKs, or telemetry trackers.
 
-## 🤝 Kontribusi & Dukungan
+## 🤝 Contribution & Support
 
-Project ini dikembangkan secara independen (Solo Developer) oleh **Dio (dfchanelxd)**.
+This project is independently developed (Solo Developer) by **Dio (dfchanelxd)**.
 
-Jika aplikasi ini bermanfaat bagi Anda, pertimbangkan untuk memberikan ⭐ **Star** pada repositori ini. Anda juga bisa melaporkan *bug* atau mengusulkan fitur melalui tab **Issues**.
+If you find this application useful, please consider giving a ⭐ **Star** to this repository. You can also report bugs or propose new features via the **Issues** tab.
 
-Untuk mendukung biaya server dan kopi *developer*, Anda bisa memberikan dukungan melalui:
+To support server costs and the developer's coffee, you can provide support via:
 
 <p align="left">
   <a href="https://sociabuzz.com/dfchanelxd/support"><img src="https://img.shields.io/badge/SociaBuzz-Support_Me-E91E8C?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Support on SociaBuzz"></a>
@@ -77,8 +82,8 @@ Untuk mendukung biaya server dan kopi *developer*, Anda bisa memberikan dukungan
 
 ## ⚠️ Disclaimer
 
-Aplikasi ini sepenuhnya **gratis** dan dibangun murni untuk tujuan edukasi serta eksplorasi arsitektur Android modern.  
-Mohon gunakan fitur pemutaran/unduhan musik secara bijak dan tetap menghormati Hak Kekayaan Intelektual (HAKI) pemilik lagu.
+This application is completely **free** and built purely for educational purposes and the exploration of modern Android architecture.  
+Please use the music streaming/download features wisely and always respect the Intellectual Property Rights (IPR) of the respective copyright owners.
 
 ---
 
