@@ -1,72 +1,85 @@
-# 🎵 Princess Music
+<p align="center">
+  <img src="https://img.shields.io/badge/Princess_Music-FF4081?style=for-the-badge&logo=android&logoColor=white" width="300" alt="Princess Music Header" />
+</p>
 
-**A Free Android Music Player** yang dibangun dengan **Kotlin + Jetpack Compose**. Streaming Music tanpa iklan, offline playback, lirik real-time, import playlist Spotify, UI Simple, dan in-app update otomatis.
+<h3 align="center">A Free Android Music Streaming App built with Kotlin & Jetpack Compose</h3>
 
 <p align="center">
   <a href="https://github.com/dfchanelxd/Princess-Music/releases/latest">
     <img src="https://img.shields.io/github/v/release/dfchanelxd/Princess-Music?color=9C27B0&label=Download%20APK&style=for-the-badge&logo=android" alt="Latest Release"></a>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=android&logoColor=white&style=for-the-badge" alt="Jetpack Compose">
-  <img src="https://img.shields.io/badge/License-AGPLv3-purple?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/Android-8.0+-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 8.0+">
+  <img src="https://img.shields.io/badge/License-AGPLv3-purple?style=for-the-badge&logo=open-source-initiative" alt="License">
   <a href="https://github.com/dfchanelxd/Princess-Music/stargazers">
-    <img src="https://img.shields.io/github/stars/dfchanelxd/Princess-Music?style=for-the-badge&logo=star" alt="Stars">
+    <img src="https://img.shields.io/github/stars/dfchanelxd/Princess-Music?style=for-the-badge&logo=github&color=FFD700" alt="Stars">
   </a>
 </p>
 
+## 📖 Tentang Aplikasi
+
+**Princess Music** adalah aplikasi *music streaming* Android yang dirancang khusus untuk pengalaman mendengarkan lagu secara bebas, cepat, dan tanpa gangguan. Berbeda dengan platform *streaming* berbayar, Princess Music berfokus pada performa pemutaran audio dengan antarmuka minimalis tanpa menyelipkan iklan sedikit pun.
+
 ## ✨ Fitur Utama
 
-- **Music Streaming**: Putar lagu tanpa iklan
-- **Offline Playback & Download**: Simpan lagu ke HP
-- **Lirik Lagu Real-time**: Sinkron otomatis dengan musik
-- **Import Playlist Spotify**: Tinggal paste link, langsung masuk
-- **In-App Update**: Update aplikasi langsung dari dalam app
+- **Ad-Free Streaming**: Streaming jutaan lagu sepuasnya tanpa intrusi iklan audio maupun pop-up visual.
+- **Offline Playback**: Unduh lagu langsung ke penyimpanan lokal perangkat untuk didengarkan saat tidak ada koneksi internet.
+- **Real-time Lyrics**: Sinkronisasi lirik dinamis yang berjalan akurat sesuai posisi durasi lagu.
+- **Spotify Playlist Import**: Migrasi otomatis! Cukup tempel (*paste*) tautan *playlist* Spotify, sistem akan otomatis mencari dan menambahkan semua trek untuk di-*streaming*.
+- **In-App Updater**: Sistem pembaruan otomatis (*OTA Update*) yang terintegrasi langsung dengan rilis terbaru di GitHub.
 
 ## 🛠️ Tech Stack
 
-| Teknologi              | Kegunaan                          |
-|------------------------|-----------------------------------|
-| **Kotlin**             | Bahasa utama                      |
-| **Jetpack Compose**    | UI modern (Material 3)            |
-| **MVVM + Coroutines + Flow** | Architecture & Async          |
-| **Media3 (ExoPlayer)** | Audio engine powerful             |
-| **Coil**               | Image loading & caching           |
-| **Retrofit + OkHttp**  | Networking & API YouTube          |
+Infrastruktur dan perpustakaan modern yang menggerakkan Princess Music:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" alt="Jetpack Compose">
+  <img src="https://img.shields.io/badge/Media3_ExoPlayer-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Media3">
+  <img src="https://img.shields.io/badge/Coroutines_%26_Flow-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Coroutines">
+  <img src="https://img.shields.io/badge/Retrofit_%2B_OkHttp-101010?style=flat-square&logo=square&logoColor=white" alt="Networking">
+  <img src="https://img.shields.io/badge/Coil-444444?style=flat-square&logo=android&logoColor=white" alt="Coil">
+  <img src="https://img.shields.io/badge/MVVM_Architecture-FF9800?style=flat-square" alt="MVVM">
+</p>
 
 ## 📥 Cara Install
 
-1. Buka tab **[Releases](https://github.com/dfchanelxd/Princess-Music/releases)** di sebelah kanan
-2. Download file `.apk` terbaru (Princess.Music.vx.x.apk)
-3. Install di HP Android kamu (Android 8.0+)
-4. Izinkan instalasi dari sumber tidak dikenal
-5. Buka aplikasi & nikmati musiknya! 🎶
+1. Buka halaman **[Releases](https://github.com/dfchanelxd/Princess-Music/releases)** di repositori ini.
+2. Unduh file dengan ekstensi `.apk` dari versi rilis terbaru (contoh: `Princess.Music.vx.x.apk`).
+3. Buka file APK yang telah diunduh di perangkat Android Anda (Kompatibel untuk **Android 8.0 Oreo** ke atas).
+4. Jika muncul dialog keamanan, izinkan instalasi dari sumber tidak dikenal (*Install unknown apps*).
+5. Selesai! Buka aplikasi dan mulai *streaming* musik favorit Anda. 🎶
 
 ## 📸 Screenshots
 
-| Home & Search                  | Playlist & Spotify Import             | Player Screen                     |
+| Home & Search                  | Playlist & Import                     | Player Screen                     |
 |--------------------------------|---------------------------------------|-----------------------------------|
 | ![Home](IMAGE_SOON!)           | ![Playlist](IMAGE_SOON!)              | ![Player](IMAGE_SOON!)            |
 
-## 🔒 Keamanan Aplikasi
+## 🔒 Protokol Keamanan
 
-Princess Music telah diverifikasi **100% bebas virus dan malware**.
+Princess Music diverifikasi **100% bebas virus dan malware**.
 
-Setiap file APK yang dirilis selalu kami periksa terlebih dahulu menggunakan **VirusTotal**, yang memindai dengan lebih dari 70 mesin antivirus sebelum diunggah ke GitHub.
+Setiap rilis APK (*build artifacts*) yang kami distribusikan selalu dipindai terlebih dahulu menggunakan **VirusTotal** dengan lebih dari 70 mesin pendeteksi ancaman sebelum diunggah ke publik. 
 
-Aplikasi ini tidak mengandung backdoor, miner, iklan tersembunyi, atau kode berbahaya lainnya.
+Aplikasi ini bersifat transparan (*standalone*) dan **tidak mengandung** *backdoor*, penambang kripto (*crypto-miner*), SDK iklan tersembunyi, maupun pelacak telemetri (*trackers*).
 
-## 🤝 Kontribusi
+## 🤝 Kontribusi & Dukungan
 
-Project ini dibuat oleh **solo developer Dio** (dfchanelxd).  
-Mau ikut berkontribusi? Boleh banget!
+Project ini dikembangkan secara independen (Solo Developer) oleh **Dio (dfchanelxd)**.
 
-- Buka **Issue** kalau nemu bug atau punya ide fitur
-- Share aplikasi ini ke teman-teman kamu ❤️
+Jika aplikasi ini bermanfaat bagi Anda, pertimbangkan untuk memberikan ⭐ **Star** pada repositori ini. Anda juga bisa melaporkan *bug* atau mengusulkan fitur melalui tab **Issues**.
+
+Untuk mendukung biaya server dan kopi *developer*, Anda bisa memberikan dukungan melalui:
+
+<p align="left">
+  <a href="https://sociabuzz.com/dfchanelxd/support"><img src="https://img.shields.io/badge/SociaBuzz-Support_Me-E91E8C?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Support on SociaBuzz"></a>
+  <a href="https://ko-fi.com/diofikriyanto"><img src="https://img.shields.io/badge/Ko--fi-Support_Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support on Ko-fi"></a>
+</p>
 
 ## ⚠️ Disclaimer
 
-Aplikasi ini **100% gratis** dan dibuat untuk tujuan edukasi serta pembelajaran pengembangan Android modern.  
-Mohon gunakan fitur download dengan bijak dan tetap menghormati hak cipta pemilik lagu.
+Aplikasi ini sepenuhnya **gratis** dan dibangun murni untuk tujuan edukasi serta eksplorasi arsitektur Android modern.  
+Mohon gunakan fitur pemutaran/unduhan musik secara bijak dan tetap menghormati Hak Kekayaan Intelektual (HAKI) pemilik lagu.
 
 ---
 
-**Built with ❤️ by [DioFikriyanto](https://github.com/dfchanelxd)**  
+*Built with ❤️ by [DioFikriyanto](https://github.com/dfchanelxd)*
