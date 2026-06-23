@@ -10,8 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/dfchanelxd/Princess-Music/releases/latest">
-    <img src="https://img.shields.io/github/v/release/dfchanelxd/Princess-Music?color=9C27B0&label=Download%20APK&style=for-the-badge&logo=android" alt="Latest Release">
-  </a>
+    <img src="https://img.shields.io/github/v/release/dfchanelxd/Princess-Music?color=9C27B0&label=Download%20APK&style=for-the-badge&logo=android" alt="Latest Release"></a>
   <img src="https://img.shields.io/badge/Android-8.0+-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 8.0+">
   <img src="https://img.shields.io/badge/License-AGPLv3-purple?style=for-the-badge&logo=open-source-initiative" alt="License">
   <a href="https://github.com/dfchanelxd/Princess-Music/stargazers">
