@@ -54,9 +54,9 @@ Infrastruktur dan perpustakaan modern yang menggerakkan Princess Music:
 
 ## 📸 Screenshots
 
-| Home & Search                  | Playlist & Import                     | Player Screen                     |
-|--------------------------------|---------------------------------------|-----------------------------------|
-| ![Home](IMAGE_SOON!)           | ![Playlist](IMAGE_SOON!)              | ![Player](IMAGE_SOON!)            |
+| Home & Search                  | Playlist & Import                     | Player Screen                     | Player Lyrics                     |
+|--------------------------------|---------------------------------------|-----------------------------------|-----------------------------------|
+| ![Home](Home_Search.jpeg)      | ![Playlist](Playlist.jpeg)            | ![Player 1](Player_1.jpeg)        | ![Player 2](Player_2.jpeg)        |
 
 ## 🔒 Protokol Keamanan
 
